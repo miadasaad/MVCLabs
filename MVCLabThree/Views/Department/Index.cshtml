@@ -1,0 +1,58 @@
+﻿@model List<DepartmentModel> 
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title
+        <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
+</head>
+<body>
+    <a asp-action="create" asp-controller="department">Department</a>
+    <a href="/department/create" class="btn btn-primary">Create</a>
+   <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th> Id</th>
+                <th> Dept Name</th>
+               
+                <th></th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.Count() == 0)
+            {
+                    <tr>
+                        <td colspan="3"> No Data</td>
+                    </tr>
+            }
+            else
+            {
+                foreach (var item in Model)
+                {
+                            <tr>
+                                <td>@item.DeptId</td>
+                                <td>@item.DeptName</td>
+                                 <td>
+                            <a href="/department/details/@item.DeptId" class="btn btn-info">Details</a>|
+                            <a href="/department/edit/@item.DeptId" class="btn btn-danger">edit</a>|
+                             <a href="/department/delete/@item.DeptId" 
+@*                     //onclick="return confirm('are you sure')"
+*@                     
+                     class="btn btn-danger">delete</a>|
+
+
+                                 </td>
+
+                            </tr>   
+                }
+            }
+        </tbody>
+    </table>
+</body>
+</html>

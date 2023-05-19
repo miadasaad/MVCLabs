@@ -1,0 +1,13 @@
+﻿@model StudentModel 
+@{
+    ViewBag.Title = "Edit";
+}
+
+
+    <form asp-action="Edit">
+        <input asp-for="Id" hidden/><br />
+        Name <input asp-for="Name" /><br />
+        Age <input asp-for="age" /><br />
+        <input type="submit" value="Update" />
+    </form>
+

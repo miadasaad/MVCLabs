@@ -1,0 +1,33 @@
+﻿@model Student
+@{
+    ViewBag.Title = "Create";
+}
+
+<div asp-validation-summary="All"></div>
+    <form asp-action="create">
+        @*<label asp-for="Id"></label>
+         <input asp-for="Id" />*@
+        @* <span asp-validation-for="Id"></span><br />*@
+         <label asp-for="Name"></label>
+         <input asp-for="Name" />
+         @*<span asp-validation-for="Name"></span><br />*@
+        <label asp-for="age"></label>
+         <input asp-for="age" />
+         @*<span asp-validation-for="age"></span><br />*@
+         <label asp-for="Email"></label>
+         <input asp-for="Email" />
+         @*<span asp-validation-for="Email"></span><br />*@
+         <label asp-for="Password"></label>
+         <input asp-for="Password" />
+        @* <span asp-validation-for="Password"></span><br />*@
+         <label asp-for="CPassword"></label>
+         <input asp-for="CPassword" />
+        @* <span asp-validation-for="CPassword"></span><br />*@
+         @*<label asp-for="DeptNo"></label>
+         <input asp-for="DeptNo" />*@
+         <select asp-for="DeptNo" asp-items="ViewBag.Department">
+
+         </select>
+        <input type="submit" value="Add" />
+    </form>
+

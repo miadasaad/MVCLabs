@@ -1,0 +1,58 @@
+﻿@model List<StudentModel>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
+</head>
+<body>
+    <a asp-action="create" asp-controller="student">Student</a>
+    <a href="/student/create" class="btn btn-primary">Create</a>
+   <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th> Id</th>
+                <th> Name</th>
+                <th>Age</th>
+                <th></th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.Count() == 0)
+            {
+                        <tr>
+                            <td colspan="4"> No Data</td>
+                        </tr>
+            }
+            else
+            {
+                foreach (var item in Model)
+                {
+                                    <tr>
+                                        <td>@item.Id</td>
+                                        <td>@item.Name</td>
+                                         <td>
+                                    <a href="/student/details/@item.Id" class="btn btn-info">Details</a>|
+                                    <a href="/student/edit/@item.Id" class="btn btn-danger">edit</a>|
+                                             <a href="/student/delete/@item.Id" class="btn btn-danger">delete</a>|
+@*                     //onclick="return confirm('are you sure')"
+*@                     
+                    
+
+
+                                         </td>
+
+                                    </tr>   
+                }
+            }
+        </tbody>
+    </table>
+</body>
+</html>

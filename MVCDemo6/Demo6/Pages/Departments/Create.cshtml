@@ -1,0 +1,12 @@
+﻿@page
+@model Demo6.Pages.Departments.CreateModel
+@{
+}
+<form method="post">
+	<input type="text" asp-for="department.DeptId" /><span asp-validation-for="department.DeptId"></span></br>
+	<input type="text" asp-for="department.DeptName" /><span asp-validation-for="department.DeptName"></span></br>
+	<input type="submit" value="add" />
+</form>
+@section scripts{
+			<partial name="_ValidationScriptsPartial" />
+}

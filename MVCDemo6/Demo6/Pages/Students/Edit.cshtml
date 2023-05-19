@@ -1,0 +1,13 @@
+﻿@page "{id?}"
+@model Demo6.Pages.Students.EditModel
+@{
+}
+<form method="post">
+    <input asp-for="Student.Id" hidden/>
+    <input asp-for="Student.Name" /><span asp-validation-for="Student.Name"></span>
+    <input asp-for="Student.Age" /><span asp-validation-for="Student.Age"></span>
+    <input type="submit" value="add" />
+</form>
+@section scripts{
+            <partial name="_ValidationScriptsPartial" />
+}

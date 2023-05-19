@@ -1,0 +1,62 @@
+C:\Users\Mas-ALHassan\Desktop\c#\Alex MVC\Demo6\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mas-ALHassan\Desktop\c#\Alex MVC\Demo6\bin\Debug\net6.0\appsettings.json
+C:\Users\Mas-ALHassan\Desktop\c#\Alex MVC\Demo6\bin\Debug\net6.0\Demo6.staticwebassets.runtime.json
+C:\Users\Mas-ALHassan\Desktop\c#\Alex MVC\Demo6\bin\Debug\net6.0\Demo6.exe
+C:\Users\Mas-ALHassan\Desktop\c#\Alex MVC\Demo6\bin\Debug\net6.0\Demo6.deps.json
+C:\Users\Mas-ALHassan\Desktop\c#\Alex MVC\Demo6\bin\Debug\net6.0\Demo6.runtimeconfig.json
+C:\Users\Mas-ALHassan\Desktop\c#\Alex MVC\Demo6\bin\Debug\net6.0\Demo6.dll
+C:\Users\Mas-ALHassan\Desktop\c#\Alex MVC\Demo6\bin\Debug\net6.0\Demo6.pdb
+C:\Users\Mas-ALHassan\Desktop\c#\Alex MVC\Demo6\obj\Debug\net6.0\Demo6.csproj.AssemblyReference.cache
+C:\Users\Mas-ALHassan\Desktop\c#\Alex MVC\Demo6\obj\Debug\net6.0\Demo6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mas-ALHassan\Desktop\c#\Alex MVC\Demo6\obj\Debug\net6.0\Demo6.AssemblyInfoInputs.cache
+C:\Users\Mas-ALHassan\Desktop\c#\Alex MVC\Demo6\obj\Debug\net6.0\Demo6.AssemblyInfo.cs
+C:\Users\Mas-ALHassan\Desktop\c#\Alex MVC\Demo6\obj\Debug\net6.0\Demo6.csproj.CoreCompileInputs.cache
+C:\Users\Mas-ALHassan\Desktop\c#\Alex MVC\Demo6\obj\Debug\net6.0\Demo6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mas-ALHassan\Desktop\c#\Alex MVC\Demo6\obj\Debug\net6.0\Demo6.RazorAssemblyInfo.cache
+C:\Users\Mas-ALHassan\Desktop\c#\Alex MVC\Demo6\obj\Debug\net6.0\Demo6.RazorAssemblyInfo.cs
+C:\Users\Mas-ALHassan\Desktop\c#\Alex MVC\Demo6\obj\Debug\net6.0\staticwebassets\msbuild.Demo6.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mas-ALHassan\Desktop\c#\Alex MVC\Demo6\obj\Debug\net6.0\staticwebassets\msbuild.build.Demo6.props
+C:\Users\Mas-ALHassan\Desktop\c#\Alex MVC\Demo6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Demo6.props
+C:\Users\Mas-ALHassan\Desktop\c#\Alex MVC\Demo6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Demo6.props
+C:\Users\Mas-ALHassan\Desktop\c#\Alex MVC\Demo6\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Mas-ALHassan\Desktop\c#\Alex MVC\Demo6\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Mas-ALHassan\Desktop\c#\Alex MVC\Demo6\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Mas-ALHassan\Desktop\c#\Alex MVC\Demo6\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mas-ALHassan\Desktop\c#\Alex MVC\Demo6\obj\Debug\net6.0\scopedcss\bundle\Demo6.styles.css
+C:\Users\Mas-ALHassan\Desktop\c#\Alex MVC\Demo6\obj\Debug\net6.0\scopedcss\projectbundle\Demo6.bundle.scp.css
+C:\Users\Mas-ALHassan\Desktop\c#\Alex MVC\Demo6\obj\Debug\net6.0\Demo6.dll
+C:\Users\Mas-ALHassan\Desktop\c#\Alex MVC\Demo6\obj\Debug\net6.0\refint\Demo6.dll
+C:\Users\Mas-ALHassan\Desktop\c#\Alex MVC\Demo6\obj\Debug\net6.0\Demo6.pdb
+C:\Users\Mas-ALHassan\Desktop\c#\Alex MVC\Demo6\obj\Debug\net6.0\Demo6.genruntimeconfig.cache
+C:\Users\Mas-ALHassan\Desktop\c#\Alex MVC\Demo6\obj\Debug\net6.0\ref\Demo6.dll
+C:\Users\ITI\Downloads\Demo6\Demo6\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ITI\Downloads\Demo6\Demo6\bin\Debug\net6.0\appsettings.json
+C:\Users\ITI\Downloads\Demo6\Demo6\bin\Debug\net6.0\Demo6.staticwebassets.runtime.json
+C:\Users\ITI\Downloads\Demo6\Demo6\bin\Debug\net6.0\Demo6.exe
+C:\Users\ITI\Downloads\Demo6\Demo6\bin\Debug\net6.0\Demo6.deps.json
+C:\Users\ITI\Downloads\Demo6\Demo6\bin\Debug\net6.0\Demo6.runtimeconfig.json
+C:\Users\ITI\Downloads\Demo6\Demo6\bin\Debug\net6.0\Demo6.dll
+C:\Users\ITI\Downloads\Demo6\Demo6\bin\Debug\net6.0\Demo6.pdb
+C:\Users\ITI\Downloads\Demo6\Demo6\obj\Debug\net6.0\Demo6.csproj.AssemblyReference.cache
+C:\Users\ITI\Downloads\Demo6\Demo6\obj\Debug\net6.0\Demo6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITI\Downloads\Demo6\Demo6\obj\Debug\net6.0\Demo6.AssemblyInfoInputs.cache
+C:\Users\ITI\Downloads\Demo6\Demo6\obj\Debug\net6.0\Demo6.AssemblyInfo.cs
+C:\Users\ITI\Downloads\Demo6\Demo6\obj\Debug\net6.0\Demo6.csproj.CoreCompileInputs.cache
+C:\Users\ITI\Downloads\Demo6\Demo6\obj\Debug\net6.0\Demo6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ITI\Downloads\Demo6\Demo6\obj\Debug\net6.0\Demo6.RazorAssemblyInfo.cache
+C:\Users\ITI\Downloads\Demo6\Demo6\obj\Debug\net6.0\Demo6.RazorAssemblyInfo.cs
+C:\Users\ITI\Downloads\Demo6\Demo6\obj\Debug\net6.0\staticwebassets\msbuild.Demo6.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ITI\Downloads\Demo6\Demo6\obj\Debug\net6.0\staticwebassets\msbuild.build.Demo6.props
+C:\Users\ITI\Downloads\Demo6\Demo6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Demo6.props
+C:\Users\ITI\Downloads\Demo6\Demo6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Demo6.props
+C:\Users\ITI\Downloads\Demo6\Demo6\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ITI\Downloads\Demo6\Demo6\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ITI\Downloads\Demo6\Demo6\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ITI\Downloads\Demo6\Demo6\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ITI\Downloads\Demo6\Demo6\obj\Debug\net6.0\scopedcss\bundle\Demo6.styles.css
+C:\Users\ITI\Downloads\Demo6\Demo6\obj\Debug\net6.0\scopedcss\projectbundle\Demo6.bundle.scp.css
+C:\Users\ITI\Downloads\Demo6\Demo6\obj\Debug\net6.0\Demo6.dll
+C:\Users\ITI\Downloads\Demo6\Demo6\obj\Debug\net6.0\refint\Demo6.dll
+C:\Users\ITI\Downloads\Demo6\Demo6\obj\Debug\net6.0\Demo6.pdb
+C:\Users\ITI\Downloads\Demo6\Demo6\obj\Debug\net6.0\Demo6.genruntimeconfig.cache
+C:\Users\ITI\Downloads\Demo6\Demo6\obj\Debug\net6.0\ref\Demo6.dll

@@ -1,0 +1,17 @@
+﻿
+@model Department
+@{
+    ViewBag.Title = "Create";
+}
+
+    <form method="post">
+       Id  
+        <input asp-for="DeptId" />
+        <br />
+       Name 
+       <input asp-for="DeptName" />
+
+       <br />
+
+        <input type="submit" value="add" />
+    </form>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCLabSeven", "MVCLabSeven.csproj", "{F6452299-6C5E-4639-9565-5186A9799EC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6452299-6C5E-4639-9565-5186A9799EC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6452299-6C5E-4639-9565-5186A9799EC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6452299-6C5E-4639-9565-5186A9799EC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6452299-6C5E-4639-9565-5186A9799EC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC988B89-A6FE-4D2E-B35E-34C23B6A971A}
+	EndGlobalSection
+EndGlobal

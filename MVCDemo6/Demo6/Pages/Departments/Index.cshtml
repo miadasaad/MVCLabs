@@ -1,0 +1,28 @@
+﻿@page
+@model Demo6.Pages.Departments.IndexModel
+@{
+}
+<a asp-page="create">Create</a>
+<table  class="table table-bordered">
+	<tr>
+		<th>
+			Dept Id
+		</th>
+		<th>
+			Dept Name
+		</th>
+		<th></th>
+	</tr>
+	@foreach (var item in Model.departments)
+	{
+		<tr>
+				<td>@item.DeptId</td>
+					<td>@item.DeptName</td>
+						<td>
+							<a asp-page="details" asp-route-id="@item.DeptId">Details</a>
+					        <a asp-page="edit" asp-route-id="@item.DeptId">edit</a>
+							<a asp-page="delete" asp-route-id="@item.DeptId">Delete</a> 
+						</td>
+		</tr>
+	}
+</table>

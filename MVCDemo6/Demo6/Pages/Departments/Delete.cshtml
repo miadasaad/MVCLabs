@@ -1,0 +1,12 @@
+﻿@page "{id?}"
+@model Demo6.Pages.Departments.DeleteModel
+@{
+}
+
+<h1 class="alert alert-danger">
+    @Model.department.DeptId @Model.department.DeptName
+</h1>
+<form method="post">
+    <input asp-for="@Model.department.DeptId" hidden />
+    <input type="submit" value="delete"/>
+</form>
